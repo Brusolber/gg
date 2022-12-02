@@ -1,0 +1,31 @@
+body {
+    font-family: 'Pacifico', cursive; 
+    background: lightblue;
+}
+.header_div {
+    background: white;
+    color: gray;
+}
+.header_div p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkgray;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main_div button {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copy_right_footer { 
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aquamarine;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
